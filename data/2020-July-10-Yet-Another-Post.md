@@ -1,1 +1,1 @@
-This is yet another md post.
+This is yet another markdown post.
